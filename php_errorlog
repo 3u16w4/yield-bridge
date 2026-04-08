@@ -1,0 +1,190 @@
+[22-Feb-2026 22:46:26 UTC] wp_auto_login: trying to login user_id==1 loginusername=sharmy to admin_url=https://apprisma.com/yield-bridge/wp-admin/
+[22-Feb-2026 22:48:23 UTC] wp_auto_login: trying to login user_id==1 loginusername=sharmy to admin_url=http://apprisma.com/yield-bridge/wp-admin/
+[23-Feb-2026 15:34:33 UTC] There aren't users with empty `account_status`. Maybe some users were approved manually or deleted.
+[23-Feb-2026 15:34:33 UTC] There aren't users with empty `account_status`. Maybe some users were approved manually or deleted.
+[24-Feb-2026 16:34:47 UTC] There aren't users with empty `account_status`. Maybe some users were approved manually or deleted.
+[26-Feb-2026 16:04:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php:9312
+Stack trace:
+#0 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-settings.php(117): require()
+#1 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-config.php(103): require_once('/home/customer/...')
+#2 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-load.php(50): require_once('/home/customer/...')
+#3 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-blog-header.php(13): require_once('/home/customer/...')
+#4 /home/customer/www/apprisma.com/public_html/yield-bridge/index.php(17): require('/home/customer/...')
+#5 {main}
+  thrown in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php on line 9312
+[26-Feb-2026 16:04:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php:9312
+Stack trace:
+#0 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-settings.php(117): require()
+#1 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-config.php(103): require_once('/home/customer/...')
+#2 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-load.php(50): require_once('/home/customer/...')
+#3 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-blog-header.php(13): require_once('/home/customer/...')
+#4 /home/customer/www/apprisma.com/public_html/yield-bridge/index.php(17): require('/home/customer/...')
+#5 {main}
+  thrown in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php on line 9312
+[26-Feb-2026 16:04:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php:9312
+Stack trace:
+#0 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-settings.php(117): require()
+#1 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-config.php(103): require_once('/home/customer/...')
+#2 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-load.php(50): require_once('/home/customer/...')
+#3 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-blog-header.php(13): require_once('/home/customer/...')
+#4 /home/customer/www/apprisma.com/public_html/yield-bridge/index.php(17): require('/home/customer/...')
+#5 {main}
+  thrown in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php on line 9312
+[26-Feb-2026 16:04:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php:9312
+Stack trace:
+#0 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-settings.php(117): require()
+#1 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-config.php(103): require_once('/home/customer/...')
+#2 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-load.php(50): require_once('/home/customer/...')
+#3 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-blog-header.php(13): require_once('/home/customer/...')
+#4 /home/customer/www/apprisma.com/public_html/yield-bridge/index.php(17): require('/home/customer/...')
+#5 {main}
+  thrown in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php on line 9312
+[26-Feb-2026 16:04:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php:9312
+Stack trace:
+#0 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-settings.php(117): require()
+#1 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-config.php(103): require_once('/home/customer/...')
+#2 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-load.php(50): require_once('/home/customer/...')
+#3 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-blog-header.php(13): require_once('/home/customer/...')
+#4 /home/customer/www/apprisma.com/public_html/yield-bridge/index.php(17): require('/home/customer/...')
+#5 {main}
+  thrown in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php on line 9312
+[26-Feb-2026 16:04:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php:9312
+Stack trace:
+#0 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-settings.php(117): require()
+#1 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-config.php(103): require_once('/home/customer/...')
+#2 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-load.php(50): require_once('/home/customer/...')
+#3 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-blog-header.php(13): require_once('/home/customer/...')
+#4 /home/customer/www/apprisma.com/public_html/yield-bridge/index.php(17): require('/home/customer/...')
+#5 {main}
+  thrown in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php on line 9312
+[26-Feb-2026 16:05:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php:9312
+Stack trace:
+#0 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-settings.php(117): require()
+#1 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-config.php(103): require_once('/home/customer/...')
+#2 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-load.php(50): require_once('/home/customer/...')
+#3 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-blog-header.php(13): require_once('/home/customer/...')
+#4 /home/customer/www/apprisma.com/public_html/yield-bridge/index.php(17): require('/home/customer/...')
+#5 {main}
+  thrown in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php on line 9312
+[26-Feb-2026 16:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php:9312
+Stack trace:
+#0 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-settings.php(117): require()
+#1 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-config.php(103): require_once('/home/customer/...')
+#2 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-load.php(50): require_once('/home/customer/...')
+#3 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-blog-header.php(13): require_once('/home/customer/...')
+#4 /home/customer/www/apprisma.com/public_html/yield-bridge/index.php(17): require('/home/customer/...')
+#5 {main}
+  thrown in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php on line 9312
+[26-Feb-2026 16:06:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php:9312
+Stack trace:
+#0 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-settings.php(117): require()
+#1 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-config.php(103): require_once('/home/customer/...')
+#2 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-load.php(50): require_once('/home/customer/...')
+#3 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-blog-header.php(13): require_once('/home/customer/...')
+#4 /home/customer/www/apprisma.com/public_html/yield-bridge/index.php(17): require('/home/customer/...')
+#5 {main}
+  thrown in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php on line 9312
+[26-Feb-2026 16:06:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php:9312
+Stack trace:
+#0 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-settings.php(117): require()
+#1 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-config.php(103): require_once('/home/customer/...')
+#2 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-load.php(50): require_once('/home/customer/...')
+#3 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-blog-header.php(13): require_once('/home/customer/...')
+#4 /home/customer/www/apprisma.com/public_html/yield-bridge/index.php(17): require('/home/customer/...')
+#5 {main}
+  thrown in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php on line 9312
+[26-Feb-2026 16:06:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php:9312
+Stack trace:
+#0 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-settings.php(117): require()
+#1 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-config.php(103): require_once('/home/customer/...')
+#2 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-load.php(50): require_once('/home/customer/...')
+#3 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-blog-header.php(13): require_once('/home/customer/...')
+#4 /home/customer/www/apprisma.com/public_html/yield-bridge/index.php(17): require('/home/customer/...')
+#5 {main}
+  thrown in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php on line 9312
+[26-Feb-2026 16:06:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php:9312
+Stack trace:
+#0 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-settings.php(117): require()
+#1 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-config.php(103): require_once('/home/customer/...')
+#2 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-load.php(50): require_once('/home/customer/...')
+#3 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-blog-header.php(13): require_once('/home/customer/...')
+#4 /home/customer/www/apprisma.com/public_html/yield-bridge/index.php(17): require('/home/customer/...')
+#5 {main}
+  thrown in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php on line 9312
+[26-Feb-2026 16:06:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php:9312
+Stack trace:
+#0 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-settings.php(117): require()
+#1 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-config.php(103): require_once('/home/customer/...')
+#2 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-load.php(50): require_once('/home/customer/...')
+#3 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-blog-header.php(13): require_once('/home/customer/...')
+#4 /home/customer/www/apprisma.com/public_html/yield-bridge/index.php(17): require('/home/customer/...')
+#5 {main}
+  thrown in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php on line 9312
+[26-Feb-2026 16:09:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php:9312
+Stack trace:
+#0 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-settings.php(117): require()
+#1 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-config.php(103): require_once('/home/customer/...')
+#2 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-load.php(50): require_once('/home/customer/...')
+#3 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-blog-header.php(13): require_once('/home/customer/...')
+#4 /home/customer/www/apprisma.com/public_html/yield-bridge/index.php(17): require('/home/customer/...')
+#5 {main}
+  thrown in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php on line 9312
+[26-Feb-2026 16:16:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php:9321
+Stack trace:
+#0 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-settings.php(117): require()
+#1 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-config.php(103): require_once('/home/customer/...')
+#2 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-load.php(50): require_once('/home/customer/...')
+#3 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-blog-header.php(13): require_once('/home/customer/...')
+#4 /home/customer/www/apprisma.com/public_html/yield-bridge/index.php(17): require('/home/customer/...')
+#5 {main}
+  thrown in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php on line 9321
+[26-Feb-2026 16:16:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php:9321
+Stack trace:
+#0 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-settings.php(117): require()
+#1 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-config.php(103): require_once('/home/customer/...')
+#2 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-load.php(50): require_once('/home/customer/...')
+#3 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-blog-header.php(13): require_once('/home/customer/...')
+#4 /home/customer/www/apprisma.com/public_html/yield-bridge/index.php(17): require('/home/customer/...')
+#5 {main}
+  thrown in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php on line 9321
+[26-Feb-2026 16:16:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php:9321
+Stack trace:
+#0 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-settings.php(117): require()
+#1 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-config.php(103): require_once('/home/customer/...')
+#2 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-load.php(50): require_once('/home/customer/...')
+#3 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-blog-header.php(13): require_once('/home/customer/...')
+#4 /home/customer/www/apprisma.com/public_html/yield-bridge/index.php(17): require('/home/customer/...')
+#5 {main}
+  thrown in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php on line 9321
+[26-Feb-2026 16:16:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php:9321
+Stack trace:
+#0 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-settings.php(117): require()
+#1 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-config.php(103): require_once('/home/customer/...')
+#2 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-load.php(50): require_once('/home/customer/...')
+#3 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-blog-header.php(13): require_once('/home/customer/...')
+#4 /home/customer/www/apprisma.com/public_html/yield-bridge/index.php(17): require('/home/customer/...')
+#5 {main}
+  thrown in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php on line 9321
+[26-Feb-2026 16:16:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php:9321
+Stack trace:
+#0 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-settings.php(117): require()
+#1 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-config.php(103): require_once('/home/customer/...')
+#2 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-load.php(50): require_once('/home/customer/...')
+#3 /home/customer/www/apprisma.com/public_html/yield-bridge/wp-blog-header.php(13): require_once('/home/customer/...')
+#4 /home/customer/www/apprisma.com/public_html/yield-bridge/index.php(17): require('/home/customer/...')
+#5 {main}
+  thrown in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-includes/functions.php on line 9321
+[12-Mar-2026 14:42:24 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-content/plugins/platform-core/platform-core.php on line 1141
+[12-Mar-2026 14:45:05 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-content/plugins/platform-core/platform-core.php on line 1141
+[15-Mar-2026 18:17:30 UTC] PHP Fatal error:  Cannot redeclare platform_acquire_deal_lock() (previously declared in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-content/plugins/platform-core/includes/investments/investment-engine.php:3) in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-content/plugins/platform-core/includes/utils/security-lock.php on line 3
+[30-Mar-2026 17:11:57 UTC] PHP Parse error:  Unmatched '}' in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-content/plugins/platform-core/includes/investments/investment-display.php on line 189
+[30-Mar-2026 17:12:05 UTC] PHP Parse error:  Unmatched '}' in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-content/plugins/platform-core/includes/investments/investment-display.php on line 189
+[30-Mar-2026 17:12:10 UTC] PHP Parse error:  Unmatched '}' in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-content/plugins/platform-core/includes/investments/investment-display.php on line 189
+[30-Mar-2026 17:12:37 UTC] PHP Parse error:  Unmatched '}' in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-content/plugins/platform-core/includes/investments/investment-display.php on line 189
+[30-Mar-2026 17:12:45 UTC] PHP Parse error:  Unmatched '}' in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-content/plugins/platform-core/includes/investments/investment-display.php on line 189
+[30-Mar-2026 17:12:49 UTC] PHP Parse error:  Unmatched '}' in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-content/plugins/platform-core/includes/investments/investment-display.php on line 189
+[30-Mar-2026 17:14:11 UTC] PHP Parse error:  Unmatched '}' in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-content/plugins/platform-core/includes/investments/investment-display.php on line 189
+[30-Mar-2026 17:51:52 UTC] PHP Parse error:  syntax error, unexpected token ")" in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-content/plugins/platform-core/includes/investments/investment-display.php on line 140
+[30-Mar-2026 17:56:37 UTC] PHP Parse error:  syntax error, unexpected token ")" in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-content/plugins/platform-core/includes/investments/investment-display.php on line 140
+[30-Mar-2026 17:56:40 UTC] PHP Parse error:  syntax error, unexpected token ")" in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-content/plugins/platform-core/includes/investments/investment-display.php on line 140
+[30-Mar-2026 17:56:41 UTC] PHP Parse error:  syntax error, unexpected token ")" in /home/customer/www/apprisma.com/public_html/yield-bridge/wp-content/plugins/platform-core/includes/investments/investment-display.php on line 140
