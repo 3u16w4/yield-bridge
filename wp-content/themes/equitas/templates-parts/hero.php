@@ -1,4 +1,4 @@
-<<?php
+<?php
 $post_id = get_option('page_on_front');
 
 // 🔹 Hero Fields
