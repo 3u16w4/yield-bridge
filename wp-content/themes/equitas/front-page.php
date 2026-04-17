@@ -7,7 +7,7 @@
   <?php get_template_part('templates-parts/trust'); ?>
   <?php get_template_part('templates-parts/metrics'); ?>
 
-  <!-- Editable Content Block -->
+  <!-- Editable Content Block test git-->
   <section class="py-20">
     <div class="max-w-4xl mx-auto px-6">
       <?php
